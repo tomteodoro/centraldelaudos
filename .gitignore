@@ -1,0 +1,13 @@
+conexao.php
+logs/
+imagens/
+unidadeSaude/anexos/
+unidadeSaude/cr/
+unidadeSaude/laudos/
+unidadeSaude/vendor/
+unidadeSaude/composer.json
+unidadeSaude/composer.lock
+paciente/anexos
+paciente/laudos
+manutencao/*.jpg
+manutencao/*.png
